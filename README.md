@@ -15,6 +15,6 @@ Schau dir meine Projekte auf GitHub an, um mehr über meine Arbeit zu erfahren.
 
 ### 📫 Kontakt:
 - Email: sebastianflorin603@gmail.com
-- Personal site: portofolio-sebastian1.vercel.app/de
+- Personal site: [Portofolio](portofolio-sebastian1.vercel.app/de)
 
 Lass uns zusammen etwas Großartiges entwickeln! 💻✨
