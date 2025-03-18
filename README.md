@@ -1,8 +1,20 @@
-**Sebastian Florin - Software Developer & Enthusiast**
+# Hallo, ich bin Sebastian! 👋
 
-Hi, I’m Sebastian, an aspiring software developer with a passion for building and learning new technologies. I enjoy creating clean, efficient, and scalable applications, whether it's for personal projects or collaborations.
+Ich bin leidenschaftlicher Softwareentwickler mit **soliden Erfahrungen** in **Python**, **JavaScript** und **React**. Derzeit befinde ich mich im letzten Jahr der Fachoberschule Informatik (FOI 11-12) und werde voraussichtlich im Juli 2025 meinen Abschluss machen. 
 
-Here you’ll find a collection of my work, ranging from small coding experiments to larger development projects. I’m always exploring new challenges and am constantly striving to improve my skills.
+## 🧑‍💻 Was ich mache:
+- **Python**: Automatisierung, Datenanalyse, Backend-Entwicklung.
+- **JavaScript & React**: Frontend-Entwicklung und UI/UX-Design.
+- **GitHub**: Auf meinem Profil findest du meine Projekte, an denen ich arbeite, sowie meine Fortschritte in der Softwareentwicklung.
 
-Feel free to explore my repositories, contribute, or reach out if you want to collaborate on a project!
+## 🚀 Was ich suche:
+Ich freue mich darauf, mein Wissen in **innovativen Projekten** zu erweitern und in einem kreativen Team Software zu entwickeln.
 
+## 📂 Projekte:
+Schau dir meine Projekte auf GitHub an, um mehr über meine Arbeit zu erfahren.
+
+### 📫 Kontakt:
+- Email: sebastianflorin603@gmail.com
+- Personal site: portofolio-sebastian1.vercel.app/de
+
+Lass uns zusammen etwas Großartiges entwickeln! 💻✨
